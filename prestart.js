@@ -12,8 +12,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "t-pose"
 				}
@@ -24,8 +23,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin4"
 				}
@@ -36,8 +34,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin8"
 				}
@@ -48,8 +45,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin16"
 				}
@@ -60,8 +56,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin32"
 				}
@@ -72,8 +67,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin64"
 				}
@@ -84,8 +78,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin128"
 				}
@@ -96,8 +89,7 @@ ig.ENTITY.Player.inject({
 			},
 			{
 				type: "SHOW_EXTERN_ANIM",
-				anim:
-				{
+				anim: {
 					sheet: "player-poses-mod",
 					name: "spin256"
 				}

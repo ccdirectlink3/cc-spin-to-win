@@ -1,9 +1,7 @@
 {
 	"DOCTYPE":"MULTI_DIR_ANIMATION",
-	"namedSheets":
-	{
-		"poses":
-		{
+	"namedSheets": {
+		"poses": {
 			"src":"media/entity/player/poses-mod.png",
 			"offX":0,
 			"offY":0,
@@ -12,20 +10,17 @@
 		}
 	},
 	"shapeType":"Y_FLAT",
-	"offset":
-	{
+	"offset": {
 		"x":0,
 		"y":-4,
 		"z":0
 	},
-	"SUB":
-	[
+	"SUB": [
 		{
 			"sheet":"poses",
 			"flipX":[0,0,0,0,0,1,1,1],
 			"tileOffsets":[0,0,0,0,0,0,0,0],
-			"SUB":
-			[
+			"SUB": [
 				{
 					"name":"t-pose",
 					"time":0.5,
